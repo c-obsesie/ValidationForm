@@ -1,5 +1,5 @@
 ### Validation Form
-[Preview](https://github.com/c-obsesie/ValidationForm/blob/master/Header_Text_Desktop.png)
+![Preview](https://github.com/c-obsesie/ValidationForm/blob/master/Header_Text_Desktop.png?raw=true)
 
 Vanila Javascript;
 CSS;
